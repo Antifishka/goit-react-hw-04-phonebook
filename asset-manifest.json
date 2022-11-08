@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-03-phonebook/static/js/main.c4ded838.js",
-    "index.html": "/goit-react-hw-03-phonebook/index.html",
-    "main.c4ded838.js.map": "/goit-react-hw-03-phonebook/static/js/main.c4ded838.js.map"
+    "main.js": "/goit-react-hw-04-phonebook/static/js/main.c4ded838.js",
+    "index.html": "/goit-react-hw-04-phonebook/index.html",
+    "main.c4ded838.js.map": "/goit-react-hw-04-phonebook/static/js/main.c4ded838.js.map"
   },
   "entrypoints": [
     "static/js/main.c4ded838.js"
